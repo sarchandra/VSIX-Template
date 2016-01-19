@@ -1,0 +1,7 @@
+D:\WV\Try\VS\MSAMultiProject\MultiProjectTemplate\MultiProjectTemplate\bin\Debug\MultiProjectTemplate.vsix
+D:\WV\Try\VS\MSAMultiProject\MultiProjectTemplate\MultiProjectTemplate\bin\Debug\extension.vsixmanifest
+D:\WV\Try\VS\MSAMultiProject\MultiProjectTemplate\MultiProjectTemplate\obj\Debug\MultiProjectTemplate.dll
+D:\WV\Try\VS\MSAMultiProject\MultiProjectTemplate\MultiProjectTemplate\obj\Debug\MultiProjectTemplate.pdb
+D:\WV\Try\VS\MSAMultiProject\MultiProjectTemplate\MultiProjectTemplate\obj\Debug\extension.vsixmanifest
+D:\WV\Try\VS\MSAMultiProject\MultiProjectTemplate\MultiProjectTemplate\bin\Debug\TemplateBuilder.dll
+D:\WV\Try\VS\MSAMultiProject\MultiProjectTemplate\MultiProjectTemplate\obj\Debug\MultiProjectTemplate.csprojResolveAssemblyReference.cache

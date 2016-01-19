@@ -1,0 +1,2 @@
+C:\Users\saravanan.mk\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Sara\MultiProjectTemplate\1.0\\extension.vsixmanifest
+C:\Users\saravanan.mk\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Sara\MultiProjectTemplate\1.0\\TemplateBuilder.dll
