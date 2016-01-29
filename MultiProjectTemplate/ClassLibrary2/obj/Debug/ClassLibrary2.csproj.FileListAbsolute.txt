@@ -1,0 +1,4 @@
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\MultiProjectTemplate\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\MultiProjectTemplate\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\MultiProjectTemplate\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\MultiProjectTemplate\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

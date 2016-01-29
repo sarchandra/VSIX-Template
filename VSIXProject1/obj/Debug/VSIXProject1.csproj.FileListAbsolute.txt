@@ -1,0 +1,11 @@
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\VSIXProject1\bin\Debug\VSIXProject1.vsix
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\VSIXProject1\bin\Debug\extension.vsixmanifest
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\VSIXProject1\obj\Debug\VSIXProject1.dll
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\VSIXProject1\obj\Debug\VSIXProject1.pdb
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\VSIXProject1\obj\Debug\extension.vsixmanifest
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\Project\VSIXProject1\bin\Debug\VSIXProject1.vsix
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\Project\VSIXProject1\bin\Debug\extension.vsixmanifest
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\Project\VSIXProject1\obj\Debug\VSIXProject1.csprojResolveAssemblyReference.cache
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\Project\VSIXProject1\obj\Debug\VSIXProject1.dll
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\Project\VSIXProject1\obj\Debug\VSIXProject1.pdb
+D:\WV\src\Vsix\Trial\VsixMultiProjectTemplate\Project\VSIXProject1\obj\Debug\extension.vsixmanifest

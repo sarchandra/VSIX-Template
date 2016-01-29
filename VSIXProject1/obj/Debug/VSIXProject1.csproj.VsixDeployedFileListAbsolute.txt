@@ -1,0 +1,4 @@
+C:\Users\saravanan.mk\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\sara\VSIXProject1\1.0\\extension.vsixmanifest
+C:\Users\saravanan.mk\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\sara\VSIXProject1\1.0\ProjectTemplates\CSharp\\1033\Root.zip
+C:\Users\saravanan.mk\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\sara\VSIXProject1\1.0\ProjectTemplates\CSharp\\1033\ClassLibrary1.zip
+C:\Users\saravanan.mk\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\sara\VSIXProject1\1.0\ProjectTemplates\CSharp\\1033\ClassLibrary2.zip

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="Project" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+  <TemplateData>
+    <Name>ClassLibrary2</Name>
+    <Description>ClassLibrary2 Example </Description>
+    <Icon>ClassLibrary2.ico</Icon>
+    <ProjectType>CSharp</ProjectType>
+    <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+    <SortOrder>1000</SortOrder>
+    <TemplateID>f68c9a9d-01fa-4be8-8dc6-fe9c90546686</TemplateID>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>MultiProjectTemplate</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+  </TemplateData>
+  <TemplateContent>
+    <Project File="ClassLibrary2.csproj" ReplaceParameters="true">
+      <Folder TargetFolderName="Properties" Name="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" OpenInEditor="true">Test2.cs</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
