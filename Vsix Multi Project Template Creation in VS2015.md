@@ -1,5 +1,5 @@
 # How to create multi project Template in Visual Studio 2015
-Initially, I tired to create the multi project template using templatebuilder. The issues I had with Templatebuilder 
+Initially, I tried to create the multi project template using templatebuilder. The issues I had with Templatebuilder 
 1. Multiple projects could not include. Only single project was able to include.
 2. There were steps given in the sidewaffle blog to create multi project template. The doc followed VS2013. It was not creating in VS2015.
 3. Multi project template was not visible in the VS project template of VS2015.
@@ -27,7 +27,7 @@ For example, the following code represents a skeleton of .vstemplate file for a 
     </TemplateContent>
 </VSTemplate> 
 ```
-VSTemplate node has attribute "Type". Type identifies the template as a project template or an item template or projectgroup template. 
+VSTemplate node has attribute called "Type". Type identifies the template as a project template or an item template or projectgroup template. 
 This attribute can have a value of **Project** or **Item** or **ProjectGroup**. **ProjectGroup** value is used to creating the multi project template.
 
 [msdn reference](https://msdn.microsoft.com/en-us/library/31cdwx28(v=vs.100).aspx) 
@@ -169,7 +169,7 @@ If we look at the directory structure, these two class library projects are crea
 
 ![dirstructure](http://sarchandra.blog.com/wp-content/blogs.dir/00/25/87/16/25871640/files/vsix/dirmultiproject.jpg)
 
-> To add an exiting project, You can copy and past inside this folder. 
+> To add an existing project, you can copy and paste inside this folder. 
 
 The default class files are renamed as Test1.cs and Test2.cs
 
@@ -283,7 +283,7 @@ The project tag **File** attribute value defined as ClassLibrary2.csproj.
 
 ### Multiproject Template Creation
 
-Now creating the multi project template. The root.vstemplate is the multi project vstemplate.
+Now let us create the multi project template. The root.vstemplate is the multi project vstemplate.
 MultiProjectTemplate is the root folder. The root folder has the multi project vstemplate (root.vstemplate) file.
  
 Key Points
@@ -364,9 +364,8 @@ Select Project as "MultiProjectTemplate"
 
 ### VSIX Compilation and Running
 
-After adding project as reference in vsix, compile and run. It will open Experiment Instance.
-Create New Project, we can see our multi project Template. The output of the compilation will be .vsix file.
-
+The output of the compilation will be .vsix file. After adding project as reference in vsix, compile and run. 
+It will open Experiment Instance. Create New Project; we can see our multi project Template getting created. 
 
 ![expinstance] (http://sarchandra.blog.com/wp-content/blogs.dir/00/25/87/16/25871640/files/vsix/vsixexper.jpg)
 
