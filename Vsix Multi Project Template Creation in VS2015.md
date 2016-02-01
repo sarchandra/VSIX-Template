@@ -33,17 +33,17 @@ This attribute can have a value of **Project** or **Item** or **ProjectGroup**. 
 [msdn reference](https://msdn.microsoft.com/en-us/library/31cdwx28(v=vs.100).aspx) 
 
 >The Type attribute of the VSTemplate element contains the value ProjectGroup for multi project template. Msdn is explained in multiple places (
->[microsoft msdn refernce](https://msdn.microsoft.com/en-us/library/ms185308.aspx)).  I did not find everything in msdn a page that explains **Type** 
+>[microsoft msdn reference](https://msdn.microsoft.com/en-us/library/ms185308.aspx)).  I did not find everything in msdn a page that explains **Type** 
 attribute's all possible values.
 
-For example
+For Example
 
 ```
 <VSTemplate Version="2.0.0" Type="ProjectGroup"
     xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
 ```
 
->When we are creating the multi project template, the Root VSTempale has *type* attribute value as "ProjectGroup". 
+>When we are creating the multi project template, the Root VSTemplate has *type* attribute value as "ProjectGroup". 
 >The most common mistake happens here. When they define the root vstemplate *type* attribute value as "Project", then it will not create the 
 >multi project template.
 
@@ -65,7 +65,7 @@ Example
 To create multi project template, the TemplateContent will have ProjectCollection node and 'it should not have project node'.
 The projectcollection node has the reference of multiple **project templates**. 
 
-For example
+For Example
 
 If I have project1 and project2, then each project will have own project template and the root folder will have projectgroup template.
 
