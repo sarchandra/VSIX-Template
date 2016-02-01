@@ -169,7 +169,7 @@ If we look at the directory structure, these two class library projects are crea
 
 ![dirstructure](http://sarchandra.blog.com/wp-content/blogs.dir/00/25/87/16/25871640/files/vsix/dirmultiproject.jpg)
 
-> To add an existing project, you can copy and paste inside this folder. 
+> To add an existing project, You can copy and paste inside this folder. 
 
 The default class files are renamed as Test1.cs and Test2.cs
 
@@ -364,8 +364,9 @@ Select Project as "MultiProjectTemplate"
 
 ### VSIX Compilation and Running
 
-The output of the compilation will be .vsix file. After adding project as reference in vsix, compile and run. 
-It will open Experiment Instance. Create New Project; we can see our multi project Template getting created. 
+After adding project as reference in vsix, compile and run. It will open Experiment Instance.
+Create New Project, we can see our multi project Template. The output of the compilation will be .vsix file.
+
 
 ![expinstance] (http://sarchandra.blog.com/wp-content/blogs.dir/00/25/87/16/25871640/files/vsix/vsixexper.jpg)
 
